@@ -1,0 +1,35 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="AppTheme.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar"/>
+
+    <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light"/>
+
+    <array name="fakulteler">
+        <item>LÜTFEN FAKÜLTE SEÇİNİZ</item>
+        <item>Diş Hekimliği Fakültesi</item>
+        <item>Edebiyat Fakültesi</item>
+        <item>Fen Fakültesi</item>
+        <item>İktisadi ve İdari Bilimler Fakültesi</item>
+        <item>İlahiyat Fakültesi</item>
+        <item>İşletme Fakültesi</item>
+        <item>Mimarlık Fakültesi</item>
+        <item>Mühendislik Fakültesi</item>
+        <item>Teknoloji Fakültesi</item>
+        <item>Tıp Fakültesi</item>
+
+    </array>
+
+</resources>
